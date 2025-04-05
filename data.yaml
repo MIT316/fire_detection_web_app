@@ -1,0 +1,6 @@
+path: /content/drive/My Drive/fireguard  # Root directory
+train: fire/train  # Training images folder
+val: fire/val  # Validation images folder
+
+nc: 1
+names: ["fire"]
